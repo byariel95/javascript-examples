@@ -1,0 +1,15 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "uso de callbacks, promesas y async await",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/challenge.js"
+  },
+  "author": "Ariel Monterroso",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
